@@ -1,0 +1,5 @@
+port: '8002'
+
+redis:
+  host: "localhost"
+  port: "6380"
